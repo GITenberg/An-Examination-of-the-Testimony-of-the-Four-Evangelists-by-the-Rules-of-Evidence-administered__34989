@@ -1,0 +1,30 @@
+_repo: An-Examination-of-the-Testimony-of-the-Four-Evangelists-by-the-Rules-of-Evidence-administered__34989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greenleaf, Simon
+    birthdate: 1783
+    deathdate: 1853
+    gutenberg_agent_id: '37373'
+    url: http://www.gutenberg.org/2009/agents/37373
+description: ''
+gutenberg_issued: '2011-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Evidences, authority, etc.'
+- !lcc 'BS'
+- !lcsh 'Jesus Christ -- Trial'
+- !lcsh 'Apologetics'
+- !lcsh 'Authority -- Religious aspects'
+title: "An Examination of the Testimony of the Four Evangelists, by the Rules of Evidence\
+  \ Administered in Courts of Justice\r\nWith an Account of the Trial of Jesus"
+url: http://www.gutenberg.org/ebooks/34989
