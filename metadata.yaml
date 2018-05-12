@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37373'
     url: http://www.gutenberg.org/2009/agents/37373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34989#An-Examination-of-the-Testimony-of-the-Four-Evangelists-by-the-Rules-of-Evidence-administered_
 gutenberg_issued: '2011-01-17'
 gutenberg_type: Text
 identifiers:
